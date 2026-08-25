@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated skill levels for Rohit Das.",
+  "axes": [
+    { "label": "C / C++", "value": 70 },
+    { "label": "Python", "value": 65 },
+    { "label": "JavaScript", "value": 60 },
+    { "label": "React", "value": 55 },
+    { "label": "Web Development", "value": 65 },
+    { "label": "Git / GitHub", "value": 70 },
+    { "label": "DSA", "value": 55 }
+  ]
+}
