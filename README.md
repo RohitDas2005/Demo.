@@ -4,7 +4,7 @@
      Colour mode, so one file serves both GitHub themes. Regenerate with:
        python scripts/dotify.py assets/jacket.png -o assets/portrait \
          --cols 100 --equalize --detail 0.5 --color -->
-<img src="assets/portrait.svg" width="300" alt="Gargi Bhardwaj, rendered as a dot matrix">
+<img src="assets/portrait.svg" width="300" alt="Rohit Das, rendered as a dot matrix">
 
 <br>
 
@@ -22,7 +22,7 @@
 <a href="https://codeforces.com/profile/gargibhardwaj24"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
 <a href="https://leetcode.com/u/gargibhardwaj24"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
-<img src="https://komarev.com/ghpvc/?username=gargibhardwaj24&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=RohitDas2005&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
@@ -143,7 +143,7 @@ through hands-on projects and hackathons.
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/dossier">
+  <a href="https://github.com/RohitDas2005/dossier">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dossier-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-dossier-light.svg">
@@ -152,7 +152,7 @@ through hands-on projects and hackathons.
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Sage">
+  <a href="https://github.com/RohitDas2005/Sage">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Sage-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-Sage-light.svg">
@@ -163,7 +163,7 @@ through hands-on projects and hackathons.
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Socrates">
+  <a href="https://github.com/RohitDas2005/Socrates">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Socrates-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-Socrates-light.svg">
@@ -172,7 +172,7 @@ through hands-on projects and hackathons.
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/humanOS">
+  <a href="https://github.com/RohitDas2005/humanOS">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-humanOS-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-humanOS-light.svg">
@@ -187,10 +187,10 @@ through hands-on projects and hackathons.
 
 | project | live | stack |
 |---|---|---|
-| **[dossier](https://github.com/gargibhardwaj24/dossier)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `JavaScript` `GSAP` `Lenis` |
-| **[Sage](https://github.com/gargibhardwaj24/Sage)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
-| **[Socrates](https://github.com/gargibhardwaj24/Socrates)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
-| **[humanOS](https://github.com/gargibhardwaj24/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
+| **[dossier](https://github.com/RohitDas2005/dossier)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `JavaScript` `GSAP` `Lenis` |
+| **[Sage](https://github.com/RohitDas2005/Sage)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
+| **[Socrates](https://github.com/RohitDas2005/Socrates)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
+| **[humanOS](https://github.com//RohitDas2005/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
 
 </sub>
 
